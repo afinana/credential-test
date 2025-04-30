@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
+  ],
+  "id": "did:web:raw.githubusercontent.com:afinana:credential-test:main",
+  "verificationMethod": [
+    {
+      "id": "did:web:raw.githubusercontent.com:afinana:credential-test:main#1",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "iZxzE3oB0l06jx3uCMhPCm6EfMANrr91hf4_m2ERCvzcMP-veACB-oAvex10NBkemdmC6gS51VtTgJfAzy6eqFw0IPbH6cBF5ep
+chUUvyl11gR5islvp8YYsW0BFjZcUUAJQfKRTbFmHNy74RgPLleZ9bH37aPZNc6DY9qPEDLzQZBppr9KgyBdHkNt4qjlncnuzwr4e45pq5P-QnewpnDPD
+pZXgm4strXyNVhZGYGv83G04wJO5GwZka_BfxNRqRzg-7aVOhVrTDFe7gSIAZVFfgUJ5CzwwLiRGMDGubHP2DgTFS94txV4C2Hns07aR66nCo-AiJGvs6
+a5sAMZxmw",
+        "e": "AQAB",
+        "alg": "RS256",
+        "x5u": "https://raw.githubusercontent.com/afinana/credential-test/main/cert.pem"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:afinana:credential-test:main#1"
+  ]
+}
