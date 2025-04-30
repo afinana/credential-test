@@ -10,7 +10,7 @@
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "",
+        "n": "iZxzE3oB0l06jx3uCMhPCm6EfMANrr91hf4_m2ERCvzcMP-veACB-oAvex10NBkemdmC6gS51VtTgJfAzy6eqFw0IPbH6cBF5epchUUvyl11gR5islvp8YYsW0BFjZcUUAJQfKRTbFmHNy74RgPLleZ9bH37aPZNc6DY9qPEDLzQZBppr9KgyBdHkNt4qjlncnuzwr4e45pq5P-QnewpnDPDpZXgm4strXyNVhZGYGv83G04wJO5GwZka_BfxNRqRzg-7aVOhVrTDFe7gSIAZVFfgUJ5CzwwLiRGMDGubHP2DgTFS94txV4C2Hns07aR66nCo-AiJGvs6a5sAMZxmw",
         "e": "AQAB",
         "alg": "RS256",
         "x5u": "https://raw.githubusercontent.com/afinana/credential-test/main/cert.pem"
